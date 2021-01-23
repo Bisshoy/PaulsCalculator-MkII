@@ -25,5 +25,5 @@ while True:
         break
     else:
         print("Something's not right.")
-
+        break
 input("Press ENTER to exit") 
